@@ -1,0 +1,100 @@
+{
+  "navbar": {
+    "aboutMe": "",
+    "skills": "",
+    "projects": "",
+    "contact": ""
+  },
+
+  "home": {
+    "whoIs": "",
+    "name": "",
+    "role": "",
+    "talk": "",
+    "email": "",
+    "scroll": ""
+  },
+
+  "aboutMe": {
+    "header": "",
+    "text": "",
+    "location": "",
+    "openMinded": "",
+    "description": ""
+  },
+
+  "mySkills": {
+    "header": {
+      "eins": "",
+      "zwei": "",
+      "drei": "",
+      "vier": ""
+    },
+    "text": {
+      "eins": "",
+      "zwei": ""
+    },
+    "button": {
+      "text": ""
+    }
+  },
+
+  "myProjects": {
+    "header": "",
+    "text": "",
+    "join": {
+      "title": "",
+      "description": ""
+    },
+    "polloLoco": {
+      "title": "",
+      "description": ""
+    },
+    "pokedex": {
+      "title": "",
+      "description": ""
+    },
+    "dabubble": {
+      "title": "",
+      "description": ""
+    },
+    "simplecrm": {
+      "title": "",
+      "description": ""
+    }
+  },
+
+  "whatMyColleguasSay": {
+    "teamPlayer": {
+      "johannes": {
+        "name": "",
+        "project": "",
+        "feedback": "",
+        "linkedin": ""
+      },
+      "test": {
+        "name": "",
+        "project": "",
+        "feedback": "",
+        "linkedin": ""
+      }
+    }
+  },
+
+  "contact": {
+    "header": "",
+    "text": "",
+    "privacy": {
+      "eins": "",
+      "zwei": "",
+      "drei": ""
+    }
+  },
+
+  "imprint": {
+    "header": "",
+    "": "",
+    "contact": "",
+    "mobile": ""
+  }
+}
